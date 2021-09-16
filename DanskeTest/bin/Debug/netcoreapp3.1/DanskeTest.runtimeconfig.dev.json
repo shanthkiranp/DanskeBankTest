@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HUE-User\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HUE-User\\.nuget\\packages"
+    ]
+  }
+}
